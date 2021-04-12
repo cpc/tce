@@ -22,7 +22,7 @@ Ubuntu 16.04+
 
 sudo apt-get install libwxgtk3.0-dev libboost-all-dev \
  tcl8.6-dev libedit-dev libsqlite3-dev sqlite3 libxerces-c-dev g++ make \
- latex2html libffi-dev autoconf automake libtool subversion git cmake
+ latex2html libtinyxml2-dev libffi-dev autoconf automake libtool subversion git cmake
 
 Ubuntu 14.04 LTS
 ----------------

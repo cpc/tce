@@ -1,6 +1,12 @@
 1.23       unreleased
 =====================
 
+Notable changes and features
+----------------------------
+- Experimental tool support for Blocks-CGRA designs.
+  Current tooling is limited to translation of Blocks-CGRA (xml representation)
+  to ADF file, and re-using TCE compiler for Blocks codegeneration.
+
 1.22    December 2020
 =====================
 
